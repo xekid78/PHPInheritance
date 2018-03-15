@@ -1,0 +1,2 @@
+# PHPInheritance
+継承
